@@ -1,0 +1,332 @@
+.headpart{
+    display: flex;
+    justify-content: space-evenly;
+}
+.headpart1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+button{
+    height: 50px;
+    width: 550px;
+    border-radius: 30px;
+    border: solid 1px rgb(126, 121, 121);
+    text-align: left;
+}
+.img button img{
+    position: absolute;
+    left: 90%;
+}
+.img2 img{
+    position: absolute;
+    top: -10px;
+    left: 80px;
+}
+.img1 img{
+    position: absolute;
+    left: 15px;
+}
+.img button{
+    position: absolute;
+    top: 15px;
+    left: 30%;
+}
+.img3 img{
+    position: absolute;
+    left: 72%;
+    top: 3%;
+}
+.img4 img{
+    position: absolute;
+    top: 3%;
+    left: 90%;
+}
+.img5 img{
+    position: absolute;
+    top: 3%;
+    left: 95%;
+}
+.but button{
+    height: 50px;
+    width: 70px;
+    border-radius: 20px;
+    border: 0px;
+    margin-left: 5%;
+    text-align: center;
+
+}
+.headpart2{
+    display: flex;
+    margin-left: 23%;
+    position: absolute;
+    top: 20%;
+    border: 0px;
+}
+.but button img{
+    position: absolute;
+    left: 2%;
+    top: 15%;
+}
+.but img{
+    position: absolute;
+    top: 20%;
+}
+.headpart2{
+    position: fixed;
+}
+.but1 button img{
+    position: absolute;
+    left: 2%;
+    top: 15%;
+}
+.but1 button{
+    border: 0px;
+}
+.sidepart{
+    position: absolute;
+    top: 20%;
+}
+.butt1 button img{
+    position: absolute;
+    
+    left: 5%;
+}
+.butt2 button img{
+    position: absolute;
+    left: 5%;
+  
+}
+.butt3 button img{
+    position: absolute;
+    left: 5%;
+    
+}
+.but4 button img{
+    position: absolute;
+    left: 5%;
+    
+}
+.but5 button img{
+    position: absolute;
+    left: 5%;
+    
+}
+.but6 button img{
+    position: absolute;
+    left: 5%;
+    
+}
+.but7 button img{
+    position: absolute;
+    left: 5%;
+    
+}
+.but8 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but9 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but10 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but11 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but12 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but13 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but14 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but15 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but16 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but17 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but18 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but19 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but20 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but21 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but22 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but23 button img{
+    position: absolute;
+    left: 5%;
+
+}.but24 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but25 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but26 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but27 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but28 button img{
+    position: absolute;
+    left: 5%;
+
+}
+.but29 button img{
+    position: absolute;
+    left: 5%;
+
+}
+
+.mid{
+    display: flex;
+   
+}
+.midpart{
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+.mid fieldset {
+    border: 0px;
+   
+}
+.mid fieldset img{
+    border-radius: 30px;
+}
+.mid2 fieldset{
+    border: 0px;
+}
+.mid2 fieldset img{
+    border-radius: 30px;
+}
+.midpart2{
+    position: absolute;
+    top: 90%;
+    left: 20%;
+}
+.mid2{
+    display: flex;
+}
+.mid3{
+    display: flex;
+}
+.midpart3{
+    position: absolute;
+    top: 140%;
+    left: 20%;
+}
+.mid3 fieldset img{
+    border-radius: 30px;
+}
+.mid3 fieldset{
+    border: 0px;
+}
+   
+.mid4{
+    display: flex;
+}
+.midpart4{
+    position: absolute;
+    top: 190%;
+    left: 20%;
+}
+.mid4 fieldset img{
+    border-radius: 30px;
+}
+.mid4 fieldset{
+    border: 0px;
+}
+.mid5{
+    display: flex;
+}
+.midpart5{
+    position: absolute;
+    top: 240%;
+    left: 20%;
+}
+.mid5 fieldset img{
+    border-radius: 30px;
+}
+.mid5 fieldset{
+    border: 0px;
+}
+.mid6{
+    display: flex;
+}
+.midpart6{
+    position: absolute;
+    top: 290%;
+    left: 20%;
+}
+.mid6 fieldset img{
+    border-radius: 30px;
+}
+.mid6 fieldset{
+    border: 0px;
+}
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
